@@ -129,5 +129,9 @@ dmypy.json
 .pyre/
 
 # DLG added -----------
-.csv
-.fa
+*.csv
+*.fa
+*.qza
+*.qzv
+*.tsv
+*.html
