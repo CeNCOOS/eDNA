@@ -20,5 +20,5 @@ Python module containing functions for querying the [World Register of Marine Sp
 
 ## Links to completed archives
 
-[OBIS](https://obis.org/dataset/62b97724-da17-4ca7-9b26-b2a22aeaab51)
+[OBIS](https://obis.org/dataset/62b97724-da17-4ca7-9b26-b2a22aeaab51) <br>
 [GBIF](https://www.gbif.org/dataset/e0b59ee7-19ae-4eb0-9217-33317fb50d47)
