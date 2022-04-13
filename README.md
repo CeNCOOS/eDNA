@@ -12,7 +12,6 @@ Language: Python 3.7
 - **eDNA_practice_conversion_draft2.ipynb** - Jupyter notebook containing second draft of code for DwC conversion, where I took an initial stab at handling non-Linnaean species names
 - **eDNA_practice_conversion_draft3.ipynb** - Jupyter notebook containing third draft of code for DwC conversion, where I attempt to match all taxa on [WoRMS](http://www.marinespecies.org/) at the lowest possible taxonomic rank
 - **eDNA_practice_conversion_draft4.ipynb** - Jupyter notebook containing final code for DwC conversion, with the names of each taxon matched on both WoRMS and the [NCBI taxonomy database](https://www.ncbi.nlm.nih.gov/taxonomy), and with occurrence and [DNA-derived extension](https://tools.gbif.org/dwca-validator/extension.do?id=http://rs.gbif.org/terms/1.0/DNADerivedData) files separated
-- **eDNA_use_case** - CSV data tables and Python code currently in development for a use case on the IOOS GitHub 
 
 ### WoRMS.py
 
